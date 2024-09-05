@@ -1,0 +1,38 @@
+img{
+    margin: 10px;
+    padding: 10px;
+}
+
+
+div{
+    font-size: 50px;
+   
+   
+}
+p{font-size: 15px;
+    margin-left: 100pxpx;
+    font-family:cursive
+}
+
+a{
+    text-decoration: none;
+    font-style:normal;
+    font-size: 20px;
+    padding: 5px ;
+    color: rgb(10, 10, 10);
+    outline-style:groove;
+    background-color: rgb(233, 245, 98);
+    
+
+}
+.mov{background-image:url('./vegitable\ background.jpg');
+
+}
+pre{
+   margin-left: 200px;
+ 
+}
+h3{
+    margin-top: -100px;
+    color:white
+}
